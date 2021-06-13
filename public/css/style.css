@@ -120,18 +120,14 @@ tha css
 
 .main_layer .middle_layer p,
 .main_layer .middle_layer .fa {
-  font-size: 7rem;
-  font-weight: 900;
+  font-size: 5rem;
+  font-weight: 700;
 }
 
 .fa {
   color: #009ad8;
 }
 
-sup {
-  font-size: 6rem;
-  margin-top: -2rem;
-}
 
 .data_hide {
   visibility: hidden;
@@ -161,7 +157,7 @@ sup {
 
   .main_layer .middle_layer p,
   .main_layer .middle_layer .fa {
-    font-size: 5rem;
-    font-weight: 900;
+    font-size: 3rem;
+    font-weight: 600;
   }
 }
